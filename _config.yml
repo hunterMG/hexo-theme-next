@@ -416,8 +416,8 @@ baidu_analytics: c29221d17e053907b4474d8c70ec318e
 
 # Disqus
 disqus:
-  enable: false
-  shortname:
+  enable: true
+  shortname: ygdays
   count: true
   lazyload: false
 
