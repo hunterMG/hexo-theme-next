@@ -74,6 +74,8 @@ footer:
   # Hexo link (Powered by Hexo).
   powered: true
 
+  record_number: 鲁ICP备17000963号
+
   theme:
     # Theme & scheme info link (Theme - NexT.scheme).
     enable: true
@@ -81,8 +83,8 @@ footer:
     version: true
   # -------------------------------------------------------------
   # Any custom text can be defined here.
-  #custom_text: Hosted by <a target="_blank" rel="external nofollow" href="https://pages.coding.me"><b>Coding Pages</b></a>
-
+  #  custom_text: Hosted by <a target="_blank" rel="external nofollow" href="https://pages.coding.me"><b>Coding Pages</b></a>
+  # custom_text: teessst
 # ---------------------------------------------------------------
 # SEO Settings
 # ---------------------------------------------------------------

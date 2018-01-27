@@ -54,7 +54,16 @@
   #}<a class="theme-link" target="_blank"{{ nofollow }} href="https://github.com/theme-next/hexo-theme-next">{#
     #}NexT.{{ theme.scheme }}{#
   #}</a>{% if theme.footer.theme.version %} v{{ theme.version }}{% endif %}{#
-#}</div>
+#}
+
+  {% if theme.footer.record_number %}
+    <span class="post-meta-divider">|</span>
+    <span>
+      {{ theme.footer.record_number }}
+    </span>
+  {% endif %}
+
+  </div>
 {% endif %}
 
 {% if theme.footer.custom_text %}
