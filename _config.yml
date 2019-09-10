@@ -74,7 +74,7 @@ footer:
   # Hexo link (Powered by Hexo).
   powered: true
 
-  record_number: 鲁ICP备17000963号
+  record_number:
 
   theme:
     # Theme & scheme info link (Theme - NexT.scheme).
